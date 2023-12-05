@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Breno Dario👋🏽
+## Olá! Eu sou o Breno Dario👋🏽
 
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
