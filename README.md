@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=12A726&center=true&vCenter=true&random=false&width=441&height=52&lines=Welcome+to+my+profile+github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=12A726&center=true&random=false&width=494&height=61&lines=Welcome+to+my+profile+github!;Hello%2C+my+name+is+Breno+Dario;I%C2%B4m+21+years+old;I%C2%B4m+software+developerI'm+a+software+developer)](https://git.io/typing-svg)
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
 
