@@ -1,3 +1,11 @@
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=12A726&center=true&random=false&width=494&height=61&lines=Welcome+to+my+profile+github!;Hello%2C+my+name+is+Breno+Dario;I%C2%B4m+21+years+old;I%C2%B4m+a+software+developer)](https://git.io/typing-svg)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
