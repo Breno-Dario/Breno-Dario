@@ -2,7 +2,8 @@
 
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
-![Breno Github stats](https://github-readme-stats.vercel.app/api/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## Tecnologias que eu utilizo
 
 <div style="display: inline-block"><br/>
