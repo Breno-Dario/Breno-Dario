@@ -33,4 +33,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Breno_Dario}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#008000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2E8B57&height=120&section=footer"/>
