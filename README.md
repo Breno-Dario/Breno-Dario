@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
 
-## Tecnologias que eu utilizo
+## Technology I use
 
 <div style="display: inline-block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,11 +22,11 @@
 </div></br>
 
 
-## Rede social
+## Social network
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-dario-b9a025277/)
 
 
-## Contato
+## Contact
 [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
 
 <div align="center">
