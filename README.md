@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Breno Dario👋🏽
 
 
-![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
+![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dracula)
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show&theme=dracula&show_icon=true=javascript,html)
 
 ## Tecnologias que eu utilizo
