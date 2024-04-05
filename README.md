@@ -2,8 +2,7 @@
 
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dracula)
-![Breno GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show&theme=dracula&show_icon=true=javascript,html)
-
+![Breno GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icon=truew&theme=dracula&layout=compact)
 ## Tecnologias que eu utilizo
 
 <div style="display: inline-block"><br/>
