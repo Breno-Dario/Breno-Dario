@@ -2,12 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=700&pause=1000&color=35d3b6&center=true&random=true&width=1000&lines=Welcome+to+my+profile+github!;Hello%2C+my+name+is+Breno+Dario;I%C2%B4m+21+years+old;I%C2%B4m+a+software+developer)](https://git.io/typing-svg)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<img src="https://wallpaperaccess.com/full/2641268.gif" width="38%" height="38%" align="right"/>
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
 
+ 
 ## Technology I use
 
 <div style="display: inline-block">
