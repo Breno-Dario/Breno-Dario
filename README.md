@@ -5,7 +5,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
 
 ## Technology I use
