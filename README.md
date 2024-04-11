@@ -7,10 +7,6 @@
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
-<!-- GIF -->
-<p align="left">
-<img align="center" src="https://www.teahub.io/photos/full/11-110881_serial-experiments-lain-pixel-art.gif" alt="Imagem" height="500px" width="800px">
-</p>
 
 ## Technology I use
 
