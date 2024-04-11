@@ -24,7 +24,7 @@
 
 ## Software I use 
 <div style="display: inline-block"><br/>
- <img align="center" alt="intellj" src="https://img.shields.io/badge/IntelliJ_IDEA-.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+ <img align="center" alt="intellj" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
  <img align="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 
