@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=700&pause=1000&color=35d3b6&center=true&random=true&width=1000&lines=Welcome+to+my+profile+github!;Hello%2C+my+name+is+Breno+Dario;I%C2%B4m+21+years+old;I%C2%B4m+a+software+developer)](https://git.io/typing-svg)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://wallpaperaccess.com/full/2641268.gif" width="38%" height="38%" align="right"/>
+
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY0aDN3ZGJ0ZHl6NXV0c2V5bTd2c3poZ2didGV4dTd3ajlhZ29qeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IffLnwlgZNgAQlVFT1/giphy.gif" width="300" height="340" align="right"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
 
  
