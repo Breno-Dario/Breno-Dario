@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=35d3b6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=700&pause=1000&color=35d3b6&center=true&random=true&width=1000&lines=Welcome+to+my+profile+github!;Hello%2C+my+name+is+Breno+Dario;I%C2%B4m+21+years+old;I%C2%B4m+a+software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&weight=700&pause=1000&color=35d3b6&center=true&random=true&width=1000&lines=Welcome+to+my+profile+github!;Hello%2C+my+name+is+Breno+Dario;I%C2%B4m+21+years+old;I%C2%B4m+a+software+developer)](https://git.io/typing-svg)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
