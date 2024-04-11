@@ -5,10 +5,13 @@
 
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY0aDN3ZGJ0ZHl6NXV0c2V5bTd2c3poZ2didGV4dTd3ajlhZ29qeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IffLnwlgZNgAQlVFT1/giphy.gif" width="300" height="340" align="right"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
 
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
+<!-- GIF -->
+<p align="left">
+<img align="center" src="https://www.teahub.io/photos/full/11-110881_serial-experiments-lain-pixel-art.gif" alt="Imagem" height="400" width="900">
+</p>
+
 ## Technology I use
 
 <div style="display: inline-block">
