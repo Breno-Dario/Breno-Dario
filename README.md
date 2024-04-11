@@ -10,36 +10,36 @@
 ## Technology I use
 
 <div style="display: inline-block">
- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
- <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
- <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
- <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
- <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+ <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-1C1C1C?style=for-the-badge&logo=html5&logoColor=35d3b6"/>
+ <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-1C1C1C?style=for-the-badge&logo=c%2B%2B&logoColor=35d3b6"/>
+ <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1C1C1C?style=for-the-badge&logo=css3&logoColor=35d3b6"/>
+ <img align="center" alt="java" src="https://img.shields.io/badge/Java-1C1C1C?style=for-the-badge&logo=openjdk&logoColor=35d3b6"/>
+ <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-1C1C1C?style=for-the-badge&logo=amazon-aws&logoColor=35d3b6"/>
+ <img align="center" alt="git" src="https://img.shields.io/badge/GIT-1C1C1C?style=for-the-badge&logo=git&logoColor=35d3b6"/>
  <p></p>
- <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+ <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-1C1C1C?style=for-the-badge&logo=microsoft-sql-server&logoColor=35d3b6"/>
   <p></p>
- <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=35d3b6"/>
  </div>
 
 
 ## Software I use 
 
  <div style="display: inline-block">
- <img align="center" alt="intellj" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
- <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
- <img align="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+ <img align="center" alt="intellj" src="https://img.shields.io/badge/IntelliJ_IDEA-1C1C1C.svg?style=for-the-badge&logo=intellij-idea&logoColor=35d3b6"/>
+ <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-1C1C1C?style=for-the-badge&logo=visual%20studio%20code&logoColor=35d3b6"/>
+ <img align="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-1C1C1C?style=for-the-badge&logo=microsoft-office&logoColor=35d3b6"/>
  </div>
 
 ## Social network
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-dario-b9a025277/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=35d3b6)](https://www.linkedin.com/in/breno-dario-b9a025277/)
 
 
 ## Contact
-[![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
+[![G-mail](https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=35d3b6)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center" style="color: #35d3b6; font-weight: bold;">Visitors Count</p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrenoDario}/count.svg" /></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Breno_Dario}/count.svg" /></p> 
 <br></div>
