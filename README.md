@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
 
 <div align="center">
-  <img width="720" height="auto" src=https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-15.gif>
+  <img width="600" height="auto" src=https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-15.gif>
 </div>
 
 ## Technology I use
