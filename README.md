@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
-  <img align="right" width="299" height="auto" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbestanimations.com%2FComputers%2Ffunny-computer-animated-gif-53.gif&f=1&nofb=1&ipt=8cb9747aca29e5c9bcceb244dc79d66dc0c692aa4528ec70ea4179cee940e5f6&ipo=images">
+  <img align="right" width="250" height="auto" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbestanimations.com%2FComputers%2Ffunny-computer-animated-gif-53.gif&f=1&nofb=1&ipt=8cb9747aca29e5c9bcceb244dc79d66dc0c692aa4528ec70ea4179cee940e5f6&ipo=images">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
 
