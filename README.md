@@ -7,6 +7,10 @@
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
 
+<div align="center">
+  <img width="720" height="auto" src=https://i.pinimg.com/originals/f0/83/f6/f083f63dfcf3bde7060e4e007311f67f.gif>
+</div>
+
 ## Technology I use
 
 <div style="display: inline-block">
