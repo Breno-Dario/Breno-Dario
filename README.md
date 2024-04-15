@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
-  <img align="right" width="450" height="auto" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Ff1647c095b309fa390a977882c013543%2Ftenor.gif%3Fitemid%3D14625441&f=1&nofb=1&ipt=7c8a72b34b58dd3079325edcb8aaff57b21d12abd705389355472f5d2e56d8a0&ipo=images">
+  <img align="right" width="350" height="auto" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Ff1647c095b309fa390a977882c013543%2Ftenor.gif%3Fitemid%3D14625441&f=1&nofb=1&ipt=7c8a72b34b58dd3079325edcb8aaff57b21d12abd705389355472f5d2e56d8a0&ipo=images">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
 
