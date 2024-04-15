@@ -24,11 +24,13 @@
 ## Software I use 
 
  <div style="display: inline-block">
- <img align="center" alt="intellj" src="https://img.shields.io/badge/IntelliJ_IDEA-1C1C1C.svg?style=for-the-badge&logo=intellij-idea&logoColor=ffffff"/>
- <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-1C1C1C?style=for-the-badge&logo=visual%20studio%20code&logoColor=3b57ed"/>
- <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-1C1C1C?style=for-the-badge&logo=linux&logoColor=dfec18"/>
-  <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-1C1C1C?style=for-the-badge&logo=windows&logoColor=1860ec">
+ 
+  <img align="center" alt="intellj" src="https://img.shields.io/badge/IntelliJ_IDEA-1C1C1C.svg?style=for-the-badge&logo=intellij-idea&logoColor=ffffff"/>
+  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-1C1C1C?style=for-the-badge&logo=visual%20studio%20code&logoColor=3b57ed"/>
   <img align="center" alt="netbeans" src="https://img.shields.io/badge/apache%20netbeans-1C1C1C?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=69c612"/>
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-1C1C1C?style=for-the-badge&logo=linux&logoColor=dfec18"/>
+  <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-1C1C1C?style=for-the-badge&logo=windows&logoColor=1860ec">
+ 
  </div>
 
 ## Social network
