@@ -12,32 +12,21 @@
 
 <div style="display: inline-block">
 
-![javascript](https://img.shields.io/badge/JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![html5](https://img.shields.io/badge/HTML5-1C1C1C?style=for-the-badge&logo=html5&logoColor=yellow)
-![css3](https://img.shields.io/badge/CSS3-1C1C1C?style=for-the-badge&logo=css3&logoColor=white)
-![java](https://img.shields.io/badge/Java-1C1C1C?style=for-the-badge&logo=openjdk&logoColor=white)
-![sql](https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=white)
-![aws](https://img.shields.io/badge/Amazon_AWS-1C1C1C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![git](https://img.shields.io/badge/GIT-1C1C1C?style=for-the-badge&logo=git&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,aws,mysql,git)](https://skillicons.dev)
 
 ## Software I use 
 
  <div style="display: inline-block">
- 
-  ![linux](https://img.shields.io/badge/Linux-1C1C1C?style=for-the-badge&logo=linux&logoColor=white)
-  ![windows](https://img.shields.io/badge/Windows-1C1C1C?style=for-the-badge&logo=windows&logoColor=white)
-  ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-1C1C1C.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![vscode](https://img.shields.io/badge/Visual_Studio_Code-1C1C1C?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![neatbeans](https://img.shields.io/badge/apache%20netbeans-1C1C1C?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,idea,vscode,vscodium,codepen)](https://skillicons.dev) 
   
  </div>
 
 ## Social network
-![Linkedin](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) 
 
 ## Contact
-![G-mail](https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
 
 <div align="center">
 <br><p align="center" style="color: #35d3b6; font-weight: bold;">Visitors Count</p>
