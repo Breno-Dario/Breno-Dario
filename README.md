@@ -22,12 +22,6 @@
   
  </div>
 
-## Social network
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) 
-
-## Contact
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
-
 <div align="center">
 <br><p align="center" style="color: #35d3b6; font-weight: bold;">Visitors Count</p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrenoDario}/count.svg" /></p> 
