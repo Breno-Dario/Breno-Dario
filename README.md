@@ -12,22 +12,32 @@
 
 <div style="display: inline-block">
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,cpp,css,html,js,git,aws,mysql&theme=dark)](https://skills.thijs.gg)
+![javascript](https://img.shields.io/badge/JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![html5](https://img.shields.io/badge/HTML5-1C1C1C?style=for-the-badge&logo=html5&logoColor=yellow)
+![css3](https://img.shields.io/badge/CSS3-1C1C1C?style=for-the-badge&logo=css3&logoColor=white)
+![java](https://img.shields.io/badge/Java-1C1C1C?style=for-the-badge&logo=openjdk&logoColor=white)
+![sql](https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-1C1C1C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![git](https://img.shields.io/badge/GIT-1C1C1C?style=for-the-badge&logo=git&logoColor=white)
 
 ## Software I use 
 
  <div style="display: inline-block">
  
-  [![My Skills](https://skills.thijs.gg/icons?i=idea,vscode,windows,linux&theme=dark)](https://skills.thijs.gg)
+  ![linux](https://img.shields.io/badge/Linux-1C1C1C?style=for-the-badge&logo=linux&logoColor=white)
+  ![windows](https://img.shields.io/badge/Windows-1C1C1C?style=for-the-badge&logo=windows&logoColor=white)
+  ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-1C1C1C.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![vscode](https://img.shields.io/badge/Visual_Studio_Code-1C1C1C?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![neatbeans](https://img.shields.io/badge/apache%20netbeans-1C1C1C?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
   
  </div>
 
 ## Social network
-[![Linkedin](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/breno-dario-b9a025277/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ## Contact
-[![G-mail](https://skills.thijs.gg/icons?i=gmail&theme=dark)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
+![G-mail](https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=white)
 
 <div align="center">
 <br><p align="center" style="color: #35d3b6; font-weight: bold;">Visitors Count</p>
