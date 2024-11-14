@@ -12,13 +12,15 @@
 
 <div style="display: inline-block">
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,aws,mysql,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,aws,mysql,git,figma,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
+
 
 ## Software I use 
 
  <div style="display: inline-block">
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,idea,vscode,vscodium,codepen)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,idea,vscode,vscodium,codepen,neovim)](https://skillicons.dev) 
   
  </div>
 
