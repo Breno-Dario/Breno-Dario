@@ -30,4 +30,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Breno_Dario}/count.svg" /></p> 
 <br></div>
 
+![snake gif](https://github.com/Breno-Dario/Breno-Dario/blob/output/github-snake-dark.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=35d3b6&height=120&section=footer"/>
