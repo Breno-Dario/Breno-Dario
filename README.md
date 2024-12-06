@@ -6,7 +6,7 @@
 <div align="center">
 
 ![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
-  <img align="right" width="190" height="auto" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F25%2Fd0%2F2d%2F25d02d702762148293e1fb4b20b9144d.gif&f=1&nofb=1&ipt=8ab9b8b30cc107135a2d6a08e6a7935e24f4b0036352563ad277d7efb32b235a&ipo=images">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
 
 </div>
