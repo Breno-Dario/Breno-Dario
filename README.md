@@ -16,7 +16,8 @@
   <h2>Technology I use</h2> 
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,aws,mysql,git,figma,mongodb)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,bash,bootstrap,react)](https://skillicons.dev)
+  
 
 </div>
 
