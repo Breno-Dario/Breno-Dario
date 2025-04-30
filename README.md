@@ -13,6 +13,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="165" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif"  />
+
+###
+
 <h2 align="left">Sobre mim</h2>
 
 ###
@@ -55,14 +61,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/breno-dario/breno-dario/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/breno-dario/breno-dario/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/breno-dario/breno-dario/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
