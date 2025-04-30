@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Sou programador desde 2023.<br>📚 Atualmente, estou aprendendo java com springboot.<br>🎯 Objetivo: Me tornar um bom desenvolvedor, sempre seguindo boas práticas.<br>🎲 Fato divertido: Adoro andar de skate, ler livro e assistir filme e séries.</p>
+<p align="left">✨ Sou programador desde 2023.<br>📚 Atualmente, estou aprendendo java com springboot.<br>🎯 Objetivo: Me tornar um bom desenvolvedor, sempre seguindo boas práticas.<br>🎲 Fato divertido: Adoro andar de skate, ler livro e assistir filmes e séries.</p>
 
 ###
 
