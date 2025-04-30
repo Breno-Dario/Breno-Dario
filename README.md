@@ -13,13 +13,11 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="165" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif"  />
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<img align="right" height="165" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif"  />
 
 ###
 
