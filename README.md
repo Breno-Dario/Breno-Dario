@@ -1,46 +1,73 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=35d3b6&height=120&section=header"/>
+<h1 align="center">Olá 👋 Bem-vindo ao meu perfil!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&weight=800&pause=1000&color=35d3b6&center=true&random=true&width=1000&lines=Welcome+to+my+profile+github!;Hello%2C+my+name+is+Breno+Dario;I%C2%B4m+21+years+old;I%C2%B4m+a+software+developer)](https://git.io/typing-svg)
-
-<hr>
-<div align="center">
-
-![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Dario&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dario&show_icons=true&theme=dark&layout=compact)
-
-</div>
-
-<div style="display: inline-block" align="center">
-
-  <h2>Technology I use</h2> 
-
-  [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,aws,mysql,git,spring)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,bash,bootstrap,react)](https://skillicons.dev)
-  
-
-</div>
-
-
-
- <div style="display: inline-block" align="center">
- 
-<h2> Software I use</h2> 
-
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,idea,vscode,vscodium,codepen,neovim)](https://skillicons.dev) 
-  
- </div>
+###
 
 <div align="center">
-<br><p align="center" style="color: #35d3b6; font-weight: bold;">Visitors Count</p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrenoDario}/count.svg" /></p> 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Breno_Dario}/count.svg" /></p> 
-<br></div>
-
-<div align="center">
-
-  ![snake gif](https://github.com/Breno-Dario/Breno-Dario/blob/output/github-snake-dark.svg)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=breno-dario&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=breno-dario&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=35d3b6&height=120&section=footer"/>
+###
+
+<p align="center">Olá, meu nome é Breno Dario, tenho 22 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Sul. Durante o curso, tenho tido contato com diversos tipos de banco de dados, como MySQL e NoSQL, além de trabalhar com linguagens como Java, C++, C# e um pouco de Kotlin. Busco me tornar um bom desenvolvedor back-end, aprimorando constantemente meus conhecimentos e habilidades nessa área.</p>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Sou programador desde 2023.<br>📚 Atualmente, estou aprendendo java com springboot.<br>🎯 Objetivo: Me tornar um bom desenvolvedor, sempre seguindo boas práticas.<br>🎲 Fato divertido: Adoro andar de skate, ler livro e assistir filme e séries.</p>
+
+###
+
+<h2 align="left">Tecnologias que uso</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="left">Redes de contato</h2>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/breno-dario/breno-dario/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/breno-dario/breno-dario/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/breno-dario/breno-dario/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/breno-dario/count.svg?"  />
+</div>
+
+###
