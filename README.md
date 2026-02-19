@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Olá, meu nome é Breno Dario, tenho 22 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Sul. Durante o curso, tenho tido contato com diversos tipos de banco de dados, como MySQL e NoSQL, além de trabalhar com linguagens como Java, C++, C# e um pouco de Kotlin. Busco me tornar um bom desenvolvedor back-end, aprimorando constantemente meus conhecimentos e habilidades nessa área.</p>
+<p align="center">Olá, meu nome é Breno Dario, tenho 23 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na FATEC Zona Sul. Durante o curso, tenho tido contato com diversos tipos de banco de dados, como MySQL e NoSQL, além de trabalhar com linguagens como Java, C++, C# e um pouco de Kotlin. Busco me tornar um bom desenvolvedor back-end, aprimorando constantemente meus conhecimentos e habilidades nessa área.</p>
 
 ###
 
