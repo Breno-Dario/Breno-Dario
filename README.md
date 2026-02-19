@@ -1,5 +1,12 @@
 <h1 align="center">Olá 👋 Bem-vindo ao meu perfil!</h1>
 
+###
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=breno-dario&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=breno-dario&theme=radical" />
+</p>
+
 
 ###
 
